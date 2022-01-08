@@ -6,16 +6,6 @@ var contestantCount;
 var allContestants;
 var answer;
 var database;
-/*
-
-(a)South America
-(b)Antarctica
-(c)Europe
-(d)None of These
-Ans:Europe*/
-
-
-
 
 var question, contestant, quiz;
 var qbank=["Q1: Lata Mangeshkar is belongs to", 
